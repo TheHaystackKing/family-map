@@ -1,5 +1,5 @@
 # Family Map
-This project, developed for CS 240, features a Java-based server and an Android mobile app inspired by platforms like FamilySearch or Ancestry.
+This project, developed for a CS class, features a Java-based server and an Android mobile app inspired by platforms like FamilySearch or Ancestry.
 
 The app generates a randomly created family tree for users, providing names and locations for significant life events of their family members. The main map allows users to select specific events and visualize connections between parents, spouses, and other life events. Additionally, the app includes a detailed page for each family member, displaying all their life events and immediate family connections. Users can also search for specific individuals and life events within the app.
 
