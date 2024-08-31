@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:id="@+id/map"
+        class="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/mapTextView"/>
+
+    <LinearLayout
+        android:id="@+id/mapTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="8dp"
+        android:layout_alignParentBottom="true"
+        android:clickable="true"
+        android:textAlignment="center">
+
+        <ImageView
+            android:id="@+id/eventImage"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            />
+
+        <TextView
+            android:id="@+id/eventText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/starting_map_event"
+            android:textAlignment="center" />
+
+    </LinearLayout>
+
+</RelativeLayout>

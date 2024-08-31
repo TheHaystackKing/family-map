@@ -1,0 +1,32 @@
+[Wed May 25 10:03:19 MDT 2022] - INFO passoff.ServerTest: 	Setting up Register Valid New User Test...
+[Wed May 25 10:03:21 MDT 2022] - INFO client.Proxy: 	Clear called
+[Wed May 25 10:03:21 MDT 2022] - INFO client.Client: 	Post without Request Body called
+[Wed May 25 10:03:21 MDT 2022] - INFO client.Client: 	Attempting to open connection to server
+[Wed May 25 10:03:21 MDT 2022] - INFO client.Client: 	Connection opened to server
+[Wed May 25 10:03:21 MDT 2022] - INFO client.Client: 	Setting passoffrequest method to POST
+[Wed May 25 10:03:21 MDT 2022] - INFO client.Client: 	Request method set to POST
+[Wed May 25 10:03:21 MDT 2022] - INFO client.Client: 	Setting Do Output to true
+[Wed May 25 10:03:21 MDT 2022] - INFO client.Client: 	Do Output set to true
+[Wed May 25 10:03:21 MDT 2022] - INFO client.Client: 	Connecting to server
+[Wed May 25 10:03:21 MDT 2022] - INFO client.Client: 	Connected to server
+[Wed May 25 10:03:21 MDT 2022] - INFO client.Client: 	Getting response code from server
+[Wed May 25 10:03:22 MDT 2022] - INFO client.Client: 	Response code 200 returned
+[Wed May 25 10:03:22 MDT 2022] - INFO client.Client: 	Getting input stream from server
+[Wed May 25 10:03:22 MDT 2022] - INFO client.Client: 	Reading input stream into a string
+[Wed May 25 10:03:36 MDT 2022] - INFO passoff.ServerTest: 	Running Register Valid New User Test...
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Proxy: 	Register called
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Post with Request Body called
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Attempting to open connection to server
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Connection opened to server
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Setting passoffrequest method to POST
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Request method set to POST
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Setting Do Output to true
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Do Output set to true
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Connecting to server
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Connected to server
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Opening output stream to server
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Writing passoffrequest to server output stream
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Request written to server output stream
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Closing output stream to server
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Output stream to server closed
+[Wed May 25 10:03:36 MDT 2022] - INFO client.Client: 	Getting response code from server
